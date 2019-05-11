@@ -6,3 +6,4 @@
 - git log = shows the log about all the commits
 - git branch -c = creates a new branch
 - git checkout -b = creates a new branch and switches to it
+- git checkout = switches to new branch
