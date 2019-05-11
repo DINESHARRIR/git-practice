@@ -5,3 +5,6 @@
 - git commit = commit changes from staging area to current branch
 - git log = shows the log about all the commits
 - git merge = add changes from different branches
+
+# Merging
+merging means to bring changes from one branch to another
