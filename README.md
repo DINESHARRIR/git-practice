@@ -12,4 +12,6 @@ merging means to bring changes from one branch to another
 A fast forward merge happens when the target branch was branched from the current
 one, and there are no changes to the current branch since then
 
-Master branch new addition 
+
+Master branch new addition
+New kind of merging demo
