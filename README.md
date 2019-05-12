@@ -4,7 +4,6 @@
 - git add = add changes from working directory to the staging area
 - git commit = commit changes from staging area to current branch
 - git log = shows the log about all the commits
-<<<<<<< HEAD
 - git merge = add changes from different branches
 - git branch -c = creates a new branch
 - git checkout -b = creates a new branch and switches to it
