@@ -8,6 +8,9 @@
 - git branch -c = creates a new branch
 - git checkout -b = creates a new branch and switches to it
 - git checkout = switches to new branch
+- git remote add name url = Add a new remote
+- git remote -v = list all the remote repositories
+- git push -u remotename branch = push our branch to the remote repository and set upstream for the branch(which means if you push to remote repository in future you can use git push
 
 # Merging
 merging means to bring changes from one branch to another
