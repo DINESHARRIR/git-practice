@@ -12,6 +12,7 @@
 - git remote -v = list all the remote repositories
 - git push -u remotename branch = push our branch to the remote repository and set upstream for the branch(which means if you push to remote repository in future you can use git push
 -git fetch = fetch the changes from the remote repository
+- git pull = to pull and merge automatically
 
 # Merging
 merging means to bring changes from one branch to another
@@ -22,3 +23,6 @@ one, and there are no changes to the current branch since then
 
 Master branch new addition
 New kind of merging demo
+
+# Remote
+Remote is the connection to remote repositories
